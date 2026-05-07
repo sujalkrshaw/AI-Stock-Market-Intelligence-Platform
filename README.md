@@ -433,8 +433,157 @@ Planned upgrades:
 
 # 🌌 Premium AI Financial Dashboard
 
-(Add screenshots here)
+# 📸 Project Screenshots
 
+---
+
+## 🎨 Main Dashboard UI
+
+<p align="center">
+  <img src="assets/ui.png" width="1000"/>
+</p>
+
+---
+
+## 🤖 AI Prediction System
+
+<p align="center">
+  <img src="assets/ai_prediction.png" width="1000"/>
+</p>
+
+---
+
+## 📊 Technical Analysis Dashboard
+
+<p align="center">
+  <img src="assets/technical_analysis.png" width="1000"/>
+</p>
+
+---
+
+## 📈 Live Market Monitoring
+
+<p align="center">
+  <img src="assets/live_market.png" width="1000"/>
+</p>
+
+---
+
+## 📉 Portfolio Analysis
+
+<p align="center">
+  <img src="assets/portfolio_analysis.png" width="1000"/>
+</p>
+
+---
+
+## 💼 Portfolio Tracker
+
+<p align="center">
+  <img src="assets/portfolio_tracker.png" width="1000"/>
+</p>
+
+---
+
+## 📌 Watchlist System
+
+<p align="center">
+  <img src="assets/watchlist.png" width="1000"/>
+</p>
+
+---
+
+## 📊 Model Comparison
+
+<p align="center">
+  <img src="assets/model_comparison.png" width="1000"/>
+</p>
+
+---
+
+## 🎯 Feature Importance Analysis
+
+<p align="center">
+  <img src="assets/feature_importance.png" width="1000"/>
+</p>
+
+---
+
+## 📈 ROC Curve Evaluation
+
+<p align="center">
+  <img src="assets/roc_curve.png" width="1000"/>
+</p>
+
+---
+
+## 📉 Return Distribution Analysis
+
+<p align="center">
+  <img src="assets/return_distribution.png" width="1000"/>
+</p>
+
+---
+
+## 🧠 Confusion Matrix
+
+<p align="center">
+  <img src="assets/confusion_matrix.png" width="1000"/>
+</p>
+
+---
+
+## 🗂 Dataset Visualization
+
+<p align="center">
+  <img src="assets/dataset.png" width="1000"/>
+</p>
+
+---
+
+## 🏗 Project Structure
+
+<p align="center">
+  <img src="assets/structure.png" width="1000"/>
+</p>
+
+---
+
+# 📊 Stock Charts
+
+---
+
+## 🍎 Apple Stock Chart
+
+<p align="center">
+  <img src="charts/AAPL_stock_chart.png" width="1000"/>
+</p>
+
+---
+
+## 🇮🇳 INFY Stock Chart
+
+<p align="center">
+  <img src="charts/INFY.NS_stock_chart.png" width="1000"/>
+</p>
+
+---
+
+## 📈 TCS Stock Chart
+
+<p align="center">
+  <img src="charts/TCS.NS_stock_chart.png" width="1000"/>
+</p>
+
+---
+
+## 💬 Sentiment Analysis
+
+<p align="center">
+  <img src="charts/Sentiment.png" width="1000"/>
+</p>
+
+---
 ---
 
 # 🌍 Deployment Ready
