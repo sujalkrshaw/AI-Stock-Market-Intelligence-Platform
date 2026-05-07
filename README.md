@@ -433,127 +433,127 @@ Planned upgrades:
 
 # 🌌 Premium AI Financial Dashboard
 
-# 📸 Project Screenshots
+# 📸 Project Screenshots & Visual Showcase
+
+> A complete visual representation of the AI Stock Market Intelligence Platform including dashboards, analytics, prediction models, portfolio tracking, stock monitoring, and system architecture.
 
 ---
 
-## 🎨 Main Dashboard UI
+# 🎨 Main User Interface
 
 <p align="center">
-  <img src="assets/ui.png" width="1000"/>
+  <img src="charts/ui.png" width="1000"/>
 </p>
 
 ---
 
-## 🤖 AI Prediction System
+# 🤖 AI Prediction Dashboard
 
 <p align="center">
-  <img src="assets/ai_prediction.png" width="1000"/>
+  <img src="charts/ai_predection.png" width="1000"/>
 </p>
 
 ---
 
-## 📊 Technical Analysis Dashboard
+# 📊 Technical Analysis System
 
 <p align="center">
-  <img src="assets/technical_analysis.png" width="1000"/>
+  <img src="charts/technical_analysis.png" width="1000"/>
 </p>
 
 ---
 
-## 📈 Live Market Monitoring
+# 📡 Live Market Intelligence
 
 <p align="center">
-  <img src="assets/live_market.png" width="1000"/>
+  <img src="charts/live_market.png" width="1000"/>
 </p>
 
 ---
 
-## 📉 Portfolio Analysis
+# 💼 Portfolio Analysis
 
 <p align="center">
-  <img src="assets/portfolio_analysis.png" width="1000"/>
+  <img src="charts/portfolio_analysis.png" width="1000"/>
 </p>
 
 ---
 
-## 💼 Portfolio Tracker
+# 📈 Portfolio Tracker
 
 <p align="center">
-  <img src="assets/portfolio_tracker.png" width="1000"/>
+  <img src="charts/portfolio_tracker.png" width="1000"/>
 </p>
 
 ---
 
-## 📌 Watchlist System
+# ⭐ Smart Watchlist
 
 <p align="center">
-  <img src="assets/watchlist.png" width="1000"/>
+  <img src="charts/watchlist.png" width="1000"/>
 </p>
 
 ---
 
-## 📊 Model Comparison
+# ⚙️ Model Comparison
 
 <p align="center">
-  <img src="assets/model_comparison.png" width="1000"/>
+  <img src="charts/model_comparison.png" width="1000"/>
 </p>
 
 ---
 
-## 🎯 Feature Importance Analysis
+# 🎯 Feature Importance Visualization
 
 <p align="center">
-  <img src="assets/feature_importance.png" width="1000"/>
+  <img src="charts/feature_importance.png" width="1000"/>
 </p>
 
 ---
 
-## 📈 ROC Curve Evaluation
+# 📌 ROC Curve Performance
 
 <p align="center">
-  <img src="assets/roc_curve.png" width="1000"/>
+  <img src="charts/roc_curve.png" width="1000"/>
 </p>
 
 ---
 
-## 📉 Return Distribution Analysis
+# 📉 Return Distribution Analytics
 
 <p align="center">
-  <img src="assets/return_distribution.png" width="1000"/>
+  <img src="charts/return_distribution.png" width="1000"/>
 </p>
 
 ---
 
-## 🧠 Confusion Matrix
+# 🧠 Confusion Matrix Evaluation
 
 <p align="center">
-  <img src="assets/confusion_matrix.png" width="1000"/>
+  <img src="charts/confusion_matrix.png" width="1000"/>
 </p>
 
 ---
 
-## 🗂 Dataset Visualization
+# 🗂 Dataset Visualization
 
 <p align="center">
-  <img src="assets/dataset.png" width="1000"/>
+  <img src="charts/dataset.png" width="1000"/>
 </p>
 
 ---
 
-## 🏗 Project Structure
+# 🏗️ Project Structure
 
 <p align="center">
-  <img src="assets/structure.png" width="1000"/>
+  <img src="charts/structure.png" width="1000"/>
 </p>
 
 ---
 
-# 📊 Stock Charts
+# 📈 Stock Market Charts
 
----
-
-## 🍎 Apple Stock Chart
+## 🍎 Apple Stock Analysis
 
 <p align="center">
   <img src="charts/AAPL_stock_chart.png" width="1000"/>
@@ -561,7 +561,7 @@ Planned upgrades:
 
 ---
 
-## 🇮🇳 INFY Stock Chart
+## 🇮🇳 INFY Stock Analysis
 
 <p align="center">
   <img src="charts/INFY.NS_stock_chart.png" width="1000"/>
@@ -569,7 +569,7 @@ Planned upgrades:
 
 ---
 
-## 📈 TCS Stock Chart
+## 📊 TCS Stock Analysis
 
 <p align="center">
   <img src="charts/TCS.NS_stock_chart.png" width="1000"/>
@@ -577,13 +577,79 @@ Planned upgrades:
 
 ---
 
-## 💬 Sentiment Analysis
+# 💬 Sentiment Analysis
 
 <p align="center">
   <img src="charts/Sentiment.png" width="1000"/>
 </p>
 
 ---
+
+# 🖼️ GitHub Repository Screenshot
+
+<p align="center">
+  <img src="charts/github_repository_overview.png" width="1000"/>
+</p>
+
+---
+
+# 🚀 Platform Highlights
+
+✔ AI-Powered Stock Prediction  
+✔ Real-Time Market Monitoring  
+✔ Interactive Dashboard  
+✔ Portfolio Intelligence  
+✔ Technical Indicator Analysis  
+✔ Machine Learning Visualization  
+✔ Sentiment Analysis Integration  
+✔ Modern Financial Analytics System  
+✔ Data-Driven Decision Support  
+✔ Advanced Stock Tracking System  
+
+---
+
+# 📂 Screenshot Folder Structure
+
+```bash
+charts/
+│
+├── ui.png
+├── ai_predection.png
+├── technical_analysis.png
+├── live_market.png
+├── portfolio_analysis.png
+├── portfolio_tracker.png
+├── watchlist.png
+├── model_comparison.png
+├── feature_importance.png
+├── roc_curve.png
+├── return_distribution.png
+├── confusion_matrix.png
+├── dataset.png
+├── structure.png
+├── AAPL_stock_chart.png
+├── INFY.NS_stock_chart.png
+├── TCS.NS_stock_chart.png
+├── Sentiment.png
+└── github_repository_overview.png
+```
+
+---
+
+# ✨ Professional GitHub Showcase
+
+This project demonstrates the integration of:
+
+- Artificial Intelligence
+- Machine Learning
+- Financial Analytics
+- Stock Market Intelligence
+- Data Visualization
+- Predictive Modeling
+- Interactive Dashboard Systems
+- Portfolio Management
+- Real-Time Data Monitoring
+
 ---
 
 # 🌍 Deployment Ready
